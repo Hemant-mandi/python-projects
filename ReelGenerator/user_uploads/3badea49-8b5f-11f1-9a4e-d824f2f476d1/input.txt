@@ -1,0 +1,6 @@
+file '05ST-METGALA-SRK-pcwf-articleLarge-v3.webp'
+duration 1
+file '65b183088ef17846c895091dcc7ff801.jpg'
+duration 1
+file '749141fbabc65ed16432e81088bcd75c.jpg'
+duration 1
